@@ -37,7 +37,7 @@
 `get-childitem path/directory` - gets list of objects
 
 
-## Structure od pwsh command:
+## Structure of pwsh command:
 
 `Get-Fake -param Arg -param -param arg,arg`
 
